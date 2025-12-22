@@ -10,18 +10,18 @@ Aplikasi ini memungkinkan pengguna untuk mengelola inventaris pribadi menggunaka
 
 Proyek ini dikembangkan sebagai tugas UAS Backend Development dengan ketentuan wajib: Express.js, Prisma ORM, JWT Authentication, Validasi Input, dan memiliki relasi One-to-Many.
 
-Catatan:
-Seluruh implementasi backend, frontend, arsitektur API, setup database, deployment, serta dokumentasi dikerjakan oleh Fajar (230660221093).
+
 
 2. Anggota Kelompok
 
 | Nama        | NIM          | Tugas                                                                                |
 | ----------- | ------------ | ------------------------------------------------------------------------------------ |
-| **Fajar**   | 230660221093 | *Seluruh implementasi proyek (backend, frontend, database, deployment, dokumentasi)* |
-| Wendi F     | -            | Anggota Kelompok                                                                     |
-| Dede Dian P | -            | Anggota Kelompok                                                                     |
-| Agil P      | -            | Anggota Kelompok                                                                     |
-| Febry       | -            | Anggota Kelompok                                                                     |
+| **Fajar**   | 230660221093 | Ketua Kelompok                                                                       |
+| Wendi F     | 230660221026 | Anggota Kelompok                                                                     |
+| Dede Dian P | 230660221010 | Anggota Kelompok                                                                     |
+| Agil P      | 230660221095 | Anggota Kelompok                                                                     |
+| Febry       | 230660221015 | Anggota Kelompok                                                                     |
+| Galih P S   | 230660221002 | Anggota Kelompok 
 
 3. Teknologi yang Digunakan
 Backend
