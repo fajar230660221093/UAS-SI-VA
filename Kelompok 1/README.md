@@ -21,7 +21,7 @@ Proyek ini dikembangkan sebagai tugas UAS Backend Development dengan ketentuan w
 | Dede Dian P | 230660221010 | Anggota Kelompok                                                                     |
 | Agil P      | 230660221095 | Anggota Kelompok                                                                     |
 | Febry       | 230660221015 | Anggota Kelompok                                                                     |
-| Galih P S   | 230660221002 | Anggota Kelompok 
+
 
 3. Teknologi yang Digunakan
 Backend
